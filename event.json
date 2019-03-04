@@ -1,0 +1,8 @@
+{
+    "Records": [
+            {
+                "body": "{\"TopicArn\":\"arn:aws:sns:us-west-2:243624377181:dev-bo-created\",\"MessageAttributes\":{\"file\":{\"Type\":\"String\",\"Value\":\"\/var\/www\/repository\/assets\/credit-exposure\/4 - Nat Emerise - Credit Exposure Summary Report - Test Scenarios.xls\"},\"event_type\":{\"Type\":\"String\",\"Value\":\"FileCompletedProgressEvent\"},\"id\":{\"Type\":\"String\",\"Value\":\"{\\\"ProcessBreach\\\":{\\\"6\\\":[[\\\"c631d134-2fe2-11e9-bb9e-0242ac130006\\\"]],\\\"7\\\":[[\\\"c638b4cc-2fe2-11e9-adc0-0242ac130006\\\"]],\\\"8\\\":[[\\\"c6442064-2fe2-11e9-b9bf-0242ac130006\\\"]],\\\"9\\\":[[\\\"c6485008-2fe2-11e9-8cba-0242ac130006\\\"]],\\\"10\\\":[[\\\"c832379e-2fe2-11e9-a9be-0242ac130006\\\"]]},\\\"CreditExposureFundClass\\\":{\\\"6\\\":[[\\\"062c33f2-158e-11e9-855c-0242ac180006\\\"]]}}\"}}}"
+            }
+        ]
+    }
+    
